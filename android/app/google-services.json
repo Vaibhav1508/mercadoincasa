@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "699553476243",
+    "project_id": "mercado-in-casa-final",
+    "storage_bucket": "mercado-in-casa-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699553476243:android:bd9bf9ed6324ea14c86766",
+        "android_client_info": {
+          "package_name": "com.merc.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699553476243-7f6jkahip6mnit5egb9e0lfm9egl87cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.merc.app",
+            "certificate_hash": "4a5ca489b5744ec614e687bf129145106b626120"
+          }
+        },
+        {
+          "client_id": "699553476243-055vidor2kdek60vb3pis9s42d99fitg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxy7P9xVa7tFJxNbgMPIEPbT6VFtvNs8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699553476243-055vidor2kdek60vb3pis9s42d99fitg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
